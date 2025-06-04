@@ -1,4 +1,7 @@
 # Technology_Adoption
+
+This repository contains the datasets and source code used for the analysis in the manuscript.
+
 - **Software dependencies:**
   - R version 4.3.1
   - Stata version 18.0
