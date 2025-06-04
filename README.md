@@ -5,9 +5,9 @@
   
 # Instructions to run on data
 We conduct regression with Stata. 
-IVData0219.dta # dataset needed
-IV1213.do #Stata do-file for baseline and IV model
-Size.do #Stata do-file for Heterogeneity (Income, Size, ethnic)
+- IVData0219.dta # dataset needed
+- IV1213.do #Stata do-file for baseline and IV model
+- Size.do #Stata do-file for Heterogeneity (Income, Size, ethnic)
 
 We made figures with R. 
-Fig.R
+- Fig.R
